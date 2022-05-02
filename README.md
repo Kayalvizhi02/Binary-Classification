@@ -1,4 +1,6 @@
-# BINARY CLASSIFICATION
+### EX NO: 01
+### DATE:
+# <p align="center"> BINARY CLASSIFICATION</p>
 ## Aim:
 To write a python program to perform binary classification.
 
